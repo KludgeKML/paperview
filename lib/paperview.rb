@@ -1,5 +1,5 @@
 require "paperview/version"
 
 module Paperview
-  # Your code goes here...
+  require 'paperview/engine'
 end
