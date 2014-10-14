@@ -1,4 +1,4 @@
 module Paperview
-  elass Engine < Rails::Engine
+  class Engine < Rails::Engine
   end
 end
